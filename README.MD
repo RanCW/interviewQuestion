@@ -1,5 +1,5 @@
-##前端面试问题整理
-###闭包
+##  前端面试问题整理
+###  闭包
 ```javascript
 for (var i = 0; i < 5; i++) {
     setTimeout(function() {
